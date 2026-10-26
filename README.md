@@ -1,5 +1,7 @@
 # ☕ Nova Cafeteria
 
+<img width="1920" height="4087" alt="image" src="https://github.com/user-attachments/assets/b5d6814d-0580-472b-ae12-599637d89cc5" />
+
 Website responsivo desenvolvido para uma cafeteria, com foco em apresentação visual, organização de conteúdo e adaptação da interface para diferentes tamanhos de tela.
 
 ## Sobre o projeto
@@ -21,10 +23,6 @@ A interface foi estruturada para proporcionar uma navegação simples e uma boa 
 - Adaptação para dispositivos móveis
 - Organização visual de conteúdo
 
-## Demonstração
-
-🌐 [Acessar o projeto](https://raquelgoncalo.github.io/nova-cafeteria/)
-
 ## Estrutura
 
 ```text
@@ -38,9 +36,5 @@ nova-cafeteria/
 
 Projeto desenvolvido para demonstrar conhecimentos em desenvolvimento Front-end, estruturação de páginas web e criação de interfaces responsivas.
 
----
-
-**Raquel Gonçalo**  
-Desenvolvedora Full Stack
-
-[LinkedIn](https://linkedin.com/in/raquelgoncalooficial) • [GitHub](https://github.com/raquelgoncalo)
+<a href="https://raquelgoncalo.github.io/nova-cafeteria/">Live Preview</a>
+========
